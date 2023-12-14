@@ -1,4 +1,5 @@
-import funciones_matematicas as fm 
+import funciones as fm 
 
 
-fm.raiz_cuad(100)
+fm.saludar()
+fm.despedirse()
